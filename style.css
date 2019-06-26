@@ -1,1 +1,22 @@
+body{
+    background: #003cff;
+    background-image: url("./plugin.video_.weather.channel.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 
+}
+h1{color:orange;
+    font-size: 165px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+h2{
+color:yellow;
+font-size: 90px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+
+
+}
